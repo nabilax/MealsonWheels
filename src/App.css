@@ -1,0 +1,19 @@
+h1 {
+  color: #000;
+}
+
+.button {
+  background-color: #000000;
+}
+
+
+
+.circle-light-yellow-lg {
+  background: #c21717;
+  width: 110px;
+  height: 110px;
+  border-radius: 999px;
+  position: absolute;
+  z-index: -5;
+}
+

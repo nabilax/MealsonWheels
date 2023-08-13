@@ -1,0 +1,50 @@
+img {
+  width: 130px;
+}
+
+.navbar {
+  height: 75px;
+  background: #000;
+}
+
+.btn-login {
+  background: #000;
+}
+
+.btn-login:hover {
+  background: #000;
+}
+
+.btn-register {
+  color: #000;
+}
+
+.btn-register:hover {
+  color: #000;
+}
+
+.second-nav {
+  background: #ffffff;
+}
+
+.btn-member {
+  background-color: #28a745;
+  height: 30px;
+  padding-inline: 10px;
+  margin-inline: 10px;
+  border-radius: 5px;
+}
+
+.btn-member ul li {
+  text-decoration: none;
+}
+
+.menu-user {
+  border: 1px solid #ffffff;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+#navName {
+  color: #ffffff;
+}

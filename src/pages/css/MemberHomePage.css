@@ -1,0 +1,25 @@
+.carousel-member {
+  width: 100%;
+  height: 300px;
+  object-fit: none;
+  filter: brightness(50%);
+}
+
+.carousel-member-lg {
+  width: 100%;
+  height: 384px;
+  object-fit: none;
+  filter: brightness(50%);
+}
+
+.meals-package {
+  color: #F1C40F;
+}
+
+.card-meals h5 {
+  color: #ffffff;
+}
+
+.meals {
+  border: 1px solid #ffffff;
+}
